@@ -1,0 +1,3 @@
+This script for xenserver is designed to pull orders from a mysql DB and provision a virtual machine on one of any number of virtual servers.
+
+
